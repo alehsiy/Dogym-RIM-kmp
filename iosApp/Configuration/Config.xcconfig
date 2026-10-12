@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=MyKekApplication
+PRODUCT_BUNDLE_IDENTIFIER=com.example.mykekapplication.MyKekApplication$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
